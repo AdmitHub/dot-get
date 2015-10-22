@@ -1,0 +1,22 @@
+{
+  "name": "dot-get",
+  "main": "index.js",
+  "version": "1.0.0",
+  "authors": [
+    "Charlie DeTar <cfd@media.mit.edu>"
+  ],
+  "description": "Utilities for setting and clearing deep object properties using mongo-style dotted paths",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
