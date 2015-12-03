@@ -4,7 +4,7 @@
 //
 Package.describe({
   name: 'admithub:dot-get',
-  version: '1.0.0',
+  version: '1.0.1',
   // Brief, one-line summary of the package.
   summary: 'Utilities for setting and clearing deep object properties using mongo-style dotted paths',
   // URL to the Git repository containing the source code for this package.

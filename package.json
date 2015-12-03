@@ -1,6 +1,6 @@
 {
   "name": "dot-get",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utilities for setting and clearing deep object properties using mongo-style dotted paths",
   "main": "index.js",
   "scripts": {
